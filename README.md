@@ -1,5 +1,5 @@
 # ProofX (PX) Assets
-Officiële repo voor logo’s en publieke metadata.
+Official repository for logos and public metadata
 
 Mint (Solana): 9wPjX8gKWyCYXpbrEwK2JknHyWSqNcwTFYBFkPvyWaYZ
 # ProofX (PX) Assets
