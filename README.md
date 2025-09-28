@@ -2,6 +2,8 @@
 Official repository for logos and public metadata.
 
 Mint (Solana): 9wPjX8gKWyCYXpbrEwK2JknHyWSqNcwTFYBFkPvyWaYZ
+
+
 # ProofX (PX) Assets
 
 Official repository for ProofX (PX) logos and public metadata.  
