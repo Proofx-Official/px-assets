@@ -1,0 +1,27 @@
+{
+  "name": "ProofX",
+  "symbol": "PX",
+  "description": "ProofX (PX) — Real utility on Solana. Privacy, Identity, Freedom.",
+  "image": "https://raw.githubusercontent.com/ProofX-Official/px-assets/main/logo.png",
+  "extensions": {
+    "website": "https://proofxofficial.notion.site",
+    "twitter": "https://twitter.com/RealProofX",
+    "telegram": "https://t.me/ProofXOfficial",
+    "mirror": "https://mirror.xyz/0x151A37Ec8060472F7e63e87143E08133dD5C4aD1"
+  },
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/ProofX-Official/px-assets/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "9j5TbFmVBMDsQUZB74GrDbDJjkEFDKmL4eXVtyprmHvj",
+        "share": 100
+      }
+    ]
+  }
+}
