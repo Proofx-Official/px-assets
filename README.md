@@ -3,7 +3,6 @@ Official repository for logos and public metadata
 
 Mint (Solana): 9wPjX8gKWyCYXpbrEwK2JknHyWSqNcwTFYBFkPvyWaYZ
 # ProofX (PX) Assets
-# ProofX (PX) Assets
 
 Official repository for ProofX (PX) logos and public metadata.  
 All files in this repo can be used by exchanges, wallets, and explorers to correctly display the project.  
